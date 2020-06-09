@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mysiteadvice</name>
+	<displayName><![CDATA[Mon module de t&eacute;moignages pour le site]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[Ce module permet aux clients de laisser des t&eacute;moignages sur votre site.]]></description>
+	<author><![CDATA[Camille Niquet]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
